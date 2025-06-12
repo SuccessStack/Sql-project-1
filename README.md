@@ -132,5 +132,3 @@ The dataset consists of **1000 records** with **17 columns**. It captures transa
 
 ---
 
-## 📁 File Structure
-
